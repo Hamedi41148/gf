@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-09 02:47 (IR Time)
+- 📥 [releases.zip](https://github.com/Hamedi41148/gf/raw/main/dl/releases.zip) `0.12 MB`
+
 ### 📅 2026-05-06 09:07 (IR Time)
 - 📥 **[ترسناک_ترین_سطحی_از_انضباط_که_تا_به_حال_دیده_اید.mp4](https://github.com/Hamedi41148/gf/raw/main/dl/%D8%AA%D8%B1%D8%B3%D9%86%D8%A7%DA%A9_%D8%AA%D8%B1%DB%8C%D9%86_%D8%B3%D8%B7%D8%AD%DB%8C_%D8%A7%D8%B2_%D8%A7%D9%86%D8%B6%D8%A8%D8%A7%D8%B7_%DA%A9%D9%87_%D8%AA%D8%A7_%D8%A8%D9%87_%D8%AD%D8%A7%D9%84_%D8%AF%DB%8C%D8%AF%D9%87_%D8%A7%DB%8C%D8%AF.mp4)**
 
