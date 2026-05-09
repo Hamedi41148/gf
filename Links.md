@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-09 22:44 (IR Time)
+- 📥 [frp_0.61.1_linux_amd64.tar.zip](https://github.com/Hamedi41148/gf/raw/main/dl/frp_0.61.1_linux_amd64.tar.zip) `12.40 MB`
+
 ### 📅 2026-05-09 15:34 (IR Time)
 - 📥 [zyrln-windows-amd64.zip](https://github.com/Hamedi41148/gf/raw/main/dl/zyrln-windows-amd64.zip) `5.52 MB`
 
