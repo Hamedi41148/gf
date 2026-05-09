@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-09 15:34 (IR Time)
+- 📥 [zyrln-windows-amd64.zip](https://github.com/Hamedi41148/gf/raw/main/dl/zyrln-windows-amd64.zip) `5.52 MB`
+
 ### 📅 2026-05-09 03:06 (IR Time)
 - 📥 [x-ui-linux-amd64.tar.zip](https://github.com/Hamedi41148/gf/raw/main/dl/x-ui-linux-amd64.tar.zip) `66.86 MB`
 
