@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 01:24 (IR Time)
+- 🗜️ [v3.2.zip](https://github.com/Hamedi41148/gf/raw/main/dl/v3.2.zip) `0.04 MB`
+
 ### 📅 2026-05-10 11:56 (IR Time)
 - 📥 [1729612_720.zip.001](https://github.com/Hamedi41148/gf/raw/main/dl/1729612_720.zip.001) `90.00 MB`
 - 📥 [1729612_720.zip.002](https://github.com/Hamedi41148/gf/raw/main/dl/1729612_720.zip.002) `90.00 MB`
