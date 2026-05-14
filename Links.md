@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 20:52 (IR Time)
+- 🗜️ [3421.zip](https://github.com/Hamedi41148/gf/raw/main/dl/3421.zip) `0.01 MB`
+
 ### 📅 2026-05-14 19:51 (IR Time)
 - 🗜️ [ShirOKhorshid-2026.05.14.zip](https://github.com/Hamedi41148/gf/raw/main/dl/ShirOKhorshid-2026.05.14.zip) `22.54 MB`
 
