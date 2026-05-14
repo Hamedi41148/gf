@@ -1,5 +1,8 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-14 19:51 (IR Time)
+- 🗜️ [ShirOKhorshid-2026.05.14.zip](https://github.com/Hamedi41148/gf/raw/main/dl/ShirOKhorshid-2026.05.14.zip) `22.54 MB`
+
 ### 📅 2026-05-14 01:24 (IR Time)
 - 🗜️ [v3.2.zip](https://github.com/Hamedi41148/gf/raw/main/dl/v3.2.zip) `0.04 MB`
 
