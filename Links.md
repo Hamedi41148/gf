@@ -1,5 +1,9 @@
 ## 🔗 Direct Download Links
 
+### 📅 2026-05-15 04:56 (IR Time)
+- 📥 [NVIDIA_app_v11.0.7.247.z01](https://github.com/Hamedi41148/gf/raw/main/dl/NVIDIA_app_v11.0.7.247.z01) `95.00 MB`
+- 🗜️ [NVIDIA_app_v11.0.7.247.zip](https://github.com/Hamedi41148/gf/raw/main/dl/NVIDIA_app_v11.0.7.247.zip) `72.88 MB`
+
 ### 📅 2026-05-14 20:53 (IR Time)
 - 🗜️ [Video_21175.zip](https://github.com/Hamedi41148/gf/raw/main/dl/Video_21175.zip) `0.52 MB`
 
